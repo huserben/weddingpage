@@ -4,10 +4,49 @@ global:
   spanish: 🇩🇴 Español
 pages:
   nav:
-    home: Home
-    details: Details
+    home: Start
     couple: The Couple
-    ceremony: Ceremony
-    festivities: Festivities
-    rsvp: RSVP
-    gifts: Gifts
+    festivities: Aperitif & Dinner
+  index:
+    details: Details
+  details:
+    title: We're celebrating our Wedding
+    date: 25. Juni 2022
+    ceremony_info: Ceremony
+    apero_info: "Aperitif with Appetizers"
+    dinner_info: "Start Dinner"
+  rsvp:
+    title: RSVP
+    description: "We ask you to send us the following info via Email"
+    registration: Whether you will join or not
+    guest_count: How many people will join including you (partner, kids)
+    food: "Meat/Veggie/Vegan, Allergies, Kids Menu (for everyone joining)"
+    email: Send a mail to
+  ceremony:
+    detail_text: |
+      Die Trauung findet um 12:30 in der Villa Boveri im Gartensaal statt. Direkt neben der Villa Boveri befindet sich das Parkhaus Ländli für die Leute die mit dem Auto anreisen. Vom Bahnhof ist die Villa in 10 Minuten zu Fuss zu erreichen.    rules: |
+      Bitte beachtet die Regeln der Villa Boveri, zum Beispiel dass es nicht erlaubt ist auf dem Gelände der Villa Boveri Ballöne steigen zu lassen oder mit Reis (oder anderem) zu werfen.
+  festivities:
+    intro_text: Wir feiern im Grand Casino Baden! Der Apero findet im <a href=https://www.clubjoybaden.ch/>Club Joy</a> des Casinos statt und das Nachtessen im Saal oberhalb des Casino Restaurants.
+    parking: Es stehen (kostenpflichtige) Parkplätze im Grand Casino Parkhaus zur Verfügung.
+    on_foot: Zu Fuss ist das Grand Casino in weniger als 5 Minuten vom Bahnhof zu erreichen. Von der Villa Boveri ist man in etwa 15 Minuten beim Grand Casino.
+  good_to_know:
+    title: Gut zu Wissen
+    intro_text: Zu beachten bla bla
+    photos: | 
+      Sowohl bei der Trauung wie auch beim Apero wird eine professionelle Fotografin anwesend sein und die Eindrücke festhalten. </br>
+      Zudem werden wir nach der Trauung wie auch beim Apero Zeit einplanen um mit euch zusammen ein paar Fotos zu machen. </br>
+      Alle Fotos werden euch nach der Feier online zur Verfügung gestellt.
+    congratulations: |
+      Beim Apero wird es ein Buch für eure Gratulationen geben. Wir würden uns über eure netten Worte freuen.
+    casino: |
+      Für alle Eingeladenen die volljährig sind besteht die Möglichkeit kostenlos das Casino zu besuchen. </br>
+      Mögliche Gewinne dürfen gerne mit dem Brautpaar geteilt werden. </br>
+      Bitte beachtet die <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Regeln für den Zutritt zum Casino</a>.
+  gifts:
+    title: Geschenke
+    intro_text: | 
+      Falls Ihr uns etwas gutes tun möchtet wären wir froh um etwas "Feriengeld" für unsere Hochzeitsreise in die USA.
+    wire_transfer: "Am einfachsten ist dies für uns via Banküberweisung auf folgendes Konto"
+    account_details: "Benjamin Huser, Heimstrasse 10, 8953 Dietikon"
+    iban: "IBAN: CH25 0900 0000 1554 2415 4"

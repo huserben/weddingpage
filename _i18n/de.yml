@@ -13,37 +13,40 @@ pages:
     title: Wir feiern unsere Hochzeit
     date: 25. Juni 2022
     ceremony_info: Trauung
-    apero_info: "Apero"
-    dinner_info: "Nachtessen"
+    apero_info: "Apero mit Häppchen"
+    dinner_info: "Start Nachtessen"
   rsvp:
     title: Anmeldung
     description: Wir bitten dich uns via Email die folgenden Informationen mit zuteilen
     registration: Zu- oder Absage
     guest_count: Wieviele Personen insgesamt teilnehmen
-    food: "Bei Einladung zum Nachtessen: Spezielle Essenswünsche (Vegetarisch/Vegan) und Allergien"
+    food: "Fleisch/Vegetarisch/Vegan, Allergien, Kindermenü gewünscht (für alle Personen)"
     email: Sende ein Mail an
-    note: Auf deiner Einladung findest du mehr Informationen zu welchen Teilen der Feier du eingeladen bist.
   ceremony:
     detail_text: |
-      Die Trauung findet um 12:30 in der Villa Boveri im Gartensaal statt. Direkt neben der Villa Boveri befindet sich das Parkhaus Ländli für die Leute die mit dem Auto anreisen. Vom Bahnhof ist die Villa in 10 Minuten zu Fuss zu erreichen.
-      
-      Ein paar andere Infos falls nötig?      
-    rules: |
+      Die Trauung findet um 12:30 in der Villa Boveri im Gartensaal statt. Direkt neben der Villa Boveri befindet sich das Parkhaus Ländli für die Leute die mit dem Auto anreisen. Vom Bahnhof ist die Villa in 10 Minuten zu Fuss zu erreichen.    rules: |
       Bitte beachtet die Regeln der Villa Boveri, zum Beispiel dass es nicht erlaubt ist auf dem Gelände der Villa Boveri Ballöne steigen zu lassen oder mit Reis (oder anderem) zu werfen.
   festivities:
-    intro_text: Wir feiern im Grand Casino Baden! Der Apero findet im Club Joy des Casinos statt und das Nachtessen im Saal oberhalb des Casino Restaurants.
+    intro_text: Wir feiern im Grand Casino Baden! Der Apero findet im <a href=https://www.clubjoybaden.ch/>Club Joy</a> des Casinos statt und das Nachtessen im Saal oberhalb des Casino Restaurants.
     parking: Es stehen (kostenpflichtige) Parkplätze im Grand Casino Parkhaus zur Verfügung.
     on_foot: Zu Fuss ist das Grand Casino in weniger als 5 Minuten vom Bahnhof zu erreichen. Von der Villa Boveri ist man in etwa 15 Minuten beim Grand Casino.
   good_to_know:
     title: Gut zu Wissen
     intro_text: Zu beachten bla bla
-    photos: Fotographin for ort für Trauung und Apero bla bla
-    congratulations: Buch für Gratuliationen am Apero bla bla
+    photos: | 
+      Sowohl bei der Trauung wie auch beim Apero wird eine professionelle Fotografin anwesend sein und die Eindrücke festhalten. </br>
+      Zudem werden wir nach der Trauung wie auch beim Apero Zeit einplanen um mit euch zusammen ein paar Fotos zu machen. </br>
+      Alle Fotos werden euch nach der Feier online zur Verfügung gestellt.
+    congratulations: |
+      Beim Apero wird es ein Buch für eure Gratulationen geben. Wir würden uns über eure netten Worte freuen.
+    casino: |
+      Für alle Eingeladenen die volljährig sind besteht die Möglichkeit kostenlos das Casino zu besuchen. </br>
+      Mögliche Gewinne dürfen gerne mit dem Brautpaar geteilt werden. </br>
+      Bitte beachtet die <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Regeln für den Zutritt zum Casino</a>.
   gifts:
     title: Geschenke
     intro_text: | 
       Falls Ihr uns etwas gutes tun möchtet wären wir froh um etwas "Feriengeld" für unsere Hochzeitsreise in die USA.
-    explanation: "Mit eurer Unterstützung können wir uns ein kühles Bier, ein gutes Nachtessen oder eine schöne Übernachtung leisten."
     wire_transfer: "Am einfachsten ist dies für uns via Banküberweisung auf folgendes Konto"
     account_details: "Benjamin Huser, Heimstrasse 10, 8953 Dietikon"
     iban: "IBAN: CH25 0900 0000 1554 2415 4"
