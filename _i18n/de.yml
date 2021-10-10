@@ -5,7 +5,6 @@ global:
 pages:
   nav:
     home: Start
-    couple: Das Paar
     festivities: Apéro & Feier
   index:
     details: Details
@@ -32,7 +31,6 @@ pages:
     on_foot: Zu Fuss ist das Grand Casino in weniger als 5 Minuten vom Bahnhof zu erreichen. Von der Villa Boveri ist man in etwa 15 Minuten beim Grand Casino.
   good_to_know:
     title: Gut zu Wissen
-    intro_text: Zu beachten bla bla
     photos: | 
       Sowohl bei der Trauung wie auch beim Apero wird eine professionelle Fotografin anwesend sein und die Eindrücke festhalten. </br>
       Zudem werden wir nach der Trauung wie auch beim Apero Zeit einplanen um mit euch zusammen ein paar Fotos zu machen. </br>
