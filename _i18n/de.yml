@@ -9,8 +9,6 @@ pages:
   index:
     details: Details
   details:
-    title: Wir feiern unsere Hochzeit
-    date: 25. Juni 2022
     ceremony_info: Trauung
     apero_info: "Apero mit Häppchen"
     dinner_info: "Start Nachtessen"
@@ -23,7 +21,8 @@ pages:
     email: Sende ein Mail an
   ceremony:
     detail_text: |
-      Die Trauung findet um 12:30 in der Villa Boveri im Gartensaal statt. Direkt neben der Villa Boveri befindet sich das Parkhaus Ländli für die Leute die mit dem Auto anreisen. Vom Bahnhof ist die Villa in 10 Minuten zu Fuss zu erreichen.    rules: |
+      Die Trauung findet um 12:30 in der Villa Boveri im Gartensaal statt. Direkt neben der Villa Boveri befindet sich das Parkhaus Ländli für die Leute die mit dem Auto anreisen. Vom Bahnhof ist die Villa in 10 Minuten zu Fuss zu erreichen.
+    rules: |
       Bitte beachtet die Regeln der Villa Boveri, zum Beispiel dass es nicht erlaubt ist auf dem Gelände der Villa Boveri Ballöne steigen zu lassen oder mit Reis (oder anderem) zu werfen.
   festivities:
     intro_text: Wir feiern im Grand Casino Baden! Der Apero findet im <a href=https://www.clubjoybaden.ch/>Club Joy</a> des Casinos statt und das Nachtessen im Saal oberhalb des Casino Restaurants.
@@ -36,7 +35,7 @@ pages:
       Zudem werden wir nach der Trauung wie auch beim Apero Zeit einplanen um mit euch zusammen ein paar Fotos zu machen. </br>
       Alle Fotos werden euch nach der Feier online zur Verfügung gestellt.
     congratulations: |
-      Beim Apero wird es ein Buch für eure Gratulationen geben. Wir würden uns über eure netten Worte freuen.
+      Es wird ein Gästebuch für eure Gratulationen geben. Wir würden uns über eure netten Worte freuen.
     casino: |
       Für alle Eingeladenen die volljährig sind besteht die Möglichkeit kostenlos das Casino zu besuchen. </br>
       Mögliche Gewinne dürfen gerne mit dem Brautpaar geteilt werden. </br>
