@@ -5,47 +5,56 @@ global:
 pages:
   nav:
     home: Start
-    festivities: Aperitif & Dinner
+    festivities: Reception & Party
   index:
     details: Details
   details:
-    title: We're celebrating our Wedding
-    date: 25. Juni 2022
-    ceremony_info: Ceremony
-    apero_info: "Aperitif with Appetizers"
+    ceremony_info: Wedding Ceremony
+    after_cereomony: Congratulations and Pictures
+    apero_info: "Reception with Appetizers"
+    apero_pictures: Pictures with the Bridal Couple
+    apero_bouquet: Bouquet Throwing 💐
+    dinner_guests: For invited Guests only
     dinner_info: "Start Dinner"
+    dinner_cake: Weddingcake
+    dinner_bar: Open Bar 🍹
+    dinner_party: Party 💃🕺
+    notice: The sequence or times could change depending on the situation. Please be sure to check this page before the wedding again.
   rsvp:
     title: RSVP
-    description: "We ask you to send us the following info via Email"
-    registration: Whether you will join or not
-    guest_count: How many people will join including you (partner, kids)
-    food: "Meat/Veggie/Vegan, Allergies, Kids Menu (for everyone joining)"
-    email: Send a mail to
+    description: We ask you to provide us the following information via Email
+    registration: Will you be able to join or not
+    guest_count: How many people are you in total (will you bring a +1 or kids)
+    food: "Food wishes: Is someone eating only vegetarian or vegan? Will you bring kids that would like to choose from the Kids menu?"
+    allergies: "Do you have allergies that we must be aware of?"
+    email: Please send an email to
   ceremony:
     detail_text: |
-      Die Trauung findet um 12:30 in der Villa Boveri im Gartensaal statt. Direkt neben der Villa Boveri befindet sich das Parkhaus Ländli für die Leute die mit dem Auto anreisen. Vom Bahnhof ist die Villa in 10 Minuten zu Fuss zu erreichen.    rules: |
-      Bitte beachtet die Regeln der Villa Boveri, zum Beispiel dass es nicht erlaubt ist auf dem Gelände der Villa Boveri Ballöne steigen zu lassen oder mit Reis (oder anderem) zu werfen.
+      Die wedding ceremony starts at 12:30 in the 'Gartensaal' of the Villa Boveri. Directly next to the Villa Bovery is the parking lot 'Ländli' for people arriving by car. The Villa Boveri is about 10 minutes on foot from the train station Baden.
+    rules: |
+      Please be aware of the house rules from the Villa Boveri. For example it's not allowed to bring balloons or throw rice (or anything else for that matter).
   festivities:
-    intro_text: Wir feiern im Grand Casino Baden! Der Apero findet im <a href=https://www.clubjoybaden.ch/>Club Joy</a> des Casinos statt und das Nachtessen im Saal oberhalb des Casino Restaurants.
-    parking: Es stehen (kostenpflichtige) Parkplätze im Grand Casino Parkhaus zur Verfügung.
-    on_foot: Zu Fuss ist das Grand Casino in weniger als 5 Minuten vom Bahnhof zu erreichen. Von der Villa Boveri ist man in etwa 15 Minuten beim Grand Casino.
+    intro_text: We celebrate at Grand Casino Baden! The reception is at the <a href=https://www.clubjoybaden.ch/>Club Joy</a> of the Casino and the dinner in the hall above the Casino Restaurant.
+    parking: There are parking lots available (for a fee) at the Grand Casino Parking.
+    on_foot: You'll get to the Casino in less than 5 minutes by foot from the train station. From the Villa Boveri it's about a 15 minute walk to the Casino.
   good_to_know:
-    title: Gut zu Wissen
-    intro_text: Zu beachten bla bla
+    title: Good to Know
     photos: | 
-      Sowohl bei der Trauung wie auch beim Apero wird eine professionelle Fotografin anwesend sein und die Eindrücke festhalten. </br>
-      Zudem werden wir nach der Trauung wie auch beim Apero Zeit einplanen um mit euch zusammen ein paar Fotos zu machen. </br>
-      Alle Fotos werden euch nach der Feier online zur Verfügung gestellt.
+      There will be a professional photographer at the wedding ceremony as well as at the reception to capture the impressions. </br>
+      We will be planning in time to shoot some pictures with you both after the ceremony as well as at the reception. </br>
+      All pictures will be made available to you after the wedding.
     congratulations: |
-      Beim Apero wird es ein Buch für eure Gratulationen geben. Wir würden uns über eure netten Worte freuen.
+      There will be a guestbook for your congratulations. We would be happy to receive your kind words.
     casino: |
-      Für alle Eingeladenen die volljährig sind besteht die Möglichkeit kostenlos das Casino zu besuchen. </br>
-      Mögliche Gewinne dürfen gerne mit dem Brautpaar geteilt werden. </br>
-      Bitte beachtet die <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Regeln für den Zutritt zum Casino</a>.
+      For all invitees who are of age there is the possibility to visit the casino for free. </br>
+      Winnings are welcomed to be shared with the bride and groom. 💰😄 </br>
+      Please check the <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Rules for the entry to the Casino</a>.
   gifts:
-    title: Geschenke
+    title: Gifts
     intro_text: | 
-      Falls Ihr uns etwas gutes tun möchtet wären wir froh um etwas "Feriengeld" für unsere Hochzeitsreise in die USA.
-    wire_transfer: "Am einfachsten ist dies für uns via Banküberweisung auf folgendes Konto"
-    account_details: "Benjamin Huser, Heimstrasse 10, 8953 Dietikon"
-    iban: "IBAN: CH25 0900 0000 1554 2415 4"
+      Money, Money, Money - money is not everything...but we can use it anyway!
+      If you want to gift us something, this would help us the most and we can directly use it for our honeymoon to the USA.
+    wire_transfer: "It's easiest via wire transfer to the following Account:"
+    account_details: |
+      Benjamin Huser, Heimstrasse 10, 8953 Dietikon </br>
+      IBAN: CH25 0900 0000 1554 2415 4
