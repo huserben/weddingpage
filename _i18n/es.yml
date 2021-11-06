@@ -1,12 +1,60 @@
 global:
   german: 🇩🇪 Deutsch
   english: 🇬🇧 English
-  spanish: 🇩🇴 Español
+  spanish: 🇩🇴 Castellano
 pages:
   nav:
-    home: El Home
-    details: Los Detailos
-    ceremony: La Ceremonia
-    festivities: Fiesta
-    rsvp: RSVP
-    gifts: Regalos
+    home: Start
+    festivities: Recepción de Boda & Fiesta
+  index:
+    details: Detalles
+  details:
+    ceremony_info: Ceremonia de la Boda
+    after_cereomony: Felicitaciones y Fotos
+    apero_info: "Recepción con Aperitivo"
+    apero_pictures: Fotos con los Novios
+    apero_bouquet: Lanzamiento de Ramos de Flores 💐
+    dinner_guests: Sólo para Invitados
+    dinner_info: "Cena de Inicio"
+    dinner_cake: Pastel de Boda
+    dinner_bar: Barra Libre 🍹
+    dinner_party: Fiesta 💃🕺
+    notice: La secuencia o los tiempos podrían cambiar dependiendo de la situación. Por favor, asegúrese de revisar esta página antes de la boda de nuevo.
+  rsvp:
+    title: Registro
+    description: Le pedimos que nos proporcione la siguiente información por correo electrónico
+    registration: ¿Podrá unirse o no?
+    guest_count: Cuántas personas sois en total (llevaréis un +1 o niños)
+    food: "Deseos alimentarios: ¿Alguien va a comer sólo vegetariano o vegano? ¿Va a traer niños que quieran elegir del menú infantil?"
+    allergies: "¿Tiene alergias que debamos conocer?"
+    email: Envíe un correo electrónico a
+  ceremony:
+    detail_text: |
+      La ceremonia de la boda comienza a las 12:30 en la 'Gartensaal' de la Villa Boveri. Justo al lado de la Villa Bovery se encuentra el aparcamiento 'Ländli' para las personas que llegan en coche. La Villa Boveri está a unos 10 minutos a pie de la estación de tren de Baden.
+    rules: |
+      Tenga en cuenta las normas de la casa de la Villa Boveri. Por ejemplo, no está permitido llevar globos o lanzar arroz (o cualquier otra cosa).
+  festivities:
+    intro_text: ¡Lo celebramos en el Gran Casino de Baden! La recepción es en el <a href=https://www.clubjoybaden.ch/>Club Joy</a> del Casino y la cena en el salón de arriba del Restaurante del Casino.
+    parking: Hay aparcamientos disponibles (de pago) en el Grand Casino Parking.
+    on_foot: Llegará al Casino en menos de 5 minutos a pie desde la estación de tren. Desde la Villa Boveri hay unos 15 minutos a pie hasta el Casino.
+  good_to_know:
+    title: Es bueno saberlo
+    photos: | 
+      Habrá un fotógrafo profesional en la ceremonia de la boda, así como en la recepción para capturar las impresiones. </br>
+      Estaremos planeando con tiempo para disparar algunas fotos con usted tanto después de la ceremonia, así como en la recepción. </br>
+      Todas las fotos se pondrán a su disposición después de la boda.
+    congratulations: |
+      Habrá un libro de visitas para sus felicitaciones. Estaremos encantados de recibir sus amables palabras.
+    casino: |
+      Para todos los invitados mayores de edad existe la posibilidad de visitar el casino de forma gratuita. </br>
+      Las ganancias son bienvenidas para ser compartidas con los novios. 💰😄 </br>
+      Por favor, consulte las <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Normas para la entrada al Casino</a>.
+  gifts:
+    title: Regalos
+    intro_text: | 
+      Dinero, dinero, dinero - el dinero no lo es todo... ¡pero podemos usarlo de todas formas!
+      Si quieres regalarnos algo, esto es lo que más nos ayudaría y podemos utilizarlo directamente para nuestra luna de miel a los Estados Unidos.
+    wire_transfer: "Lo más fácil es hacer una transferencia a la siguiente cuenta:"
+    account_details: |
+      Benjamin Huser, Heimstrasse 10, 8953 Dietikon </br>
+      IBAN: CH25 0900 0000 1554 2415 4
