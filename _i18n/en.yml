@@ -17,9 +17,8 @@ pages:
     dinner_guests: For invited Guests only
     dinner_info: "Start Dinner"
     dinner_cake: Weddingcake
-    dinner_bar: Open Bar 🍹
     dinner_party: Party 💃🕺
-    notice: The sequence or times could change depending on the situation. Please be sure to check this page before the wedding again.
+    notice: The schedule is only tentative - changes in the schedule or times may occur at any time. Please check it again before the wedding.
   rsvp:
     title: RSVP
     description: We ask you to provide us the following information via Email
@@ -40,20 +39,17 @@ pages:
   good_to_know:
     title: Good to Know
     photos: | 
-      There will be a professional photographer at the wedding ceremony as well as at the reception to capture the impressions. </br>
-      We will be planning in time to shoot some pictures with you both after the ceremony as well as at the reception. </br>
+      There will be a professional photographer at the wedding ceremony as well as at the reception. </br>
       All pictures will be made available to you after the wedding.
     congratulations: |
       There will be a guestbook for your congratulations. We would be happy to receive your kind words.
     casino: |
       For all invitees who are of age there is the possibility to visit the casino for free. </br>
-      Winnings are welcomed to be shared with the bride and groom. 💰😄 </br>
       Please check the <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Rules for the entry to the Casino</a>.
   gifts:
     title: Gifts
     intro_text: | 
-      Money, Money, Money - money is not everything...but we can use it anyway!
-      If you want to gift us something, this would help us the most and we can directly use it for our honeymoon to the USA.
+      We do not expect any gifts from you and do not need anything special. If you still want to give us a gift we would be most happy about some money for our honeymoon.
     wire_transfer: "It's easiest via wire transfer to the following Account:"
     account_details: |
       Benjamin Huser, Heimstrasse 10, 8953 Dietikon </br>

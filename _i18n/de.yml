@@ -14,15 +14,14 @@ pages:
     apero_info: "Apero mit Häppchen"
     apero_pictures: Fotos mit Brautpaar
     apero_bouquet: Brautstrausswurf 💐
-    dinner_guests: Für eingeladene Gäste
+    dinner_guests: Für geladene Gäste
     dinner_info: "Start Nachtessen"
     dinner_cake: Hochzeitstorte
-    dinner_bar: Open Bar 🍹
     dinner_party: Party 💃🕺
-    notice: Änderungen im Ablauf oder der Zeiten können jederzeit möglich sein. Bitte überprüft diese vor der Hochzeit noch einmal. 
+    notice: Der Zeitplan ist nur provisorisch - Änderungen im Ablauf oder den Zeiten können jederzeit möglich sein. Bitte überprüft diese vor der Hochzeit noch einmal. 
   rsvp:
     title: Anmeldung
-    description: Wir bitten dich uns via Email die folgenden Informationen mit zuteilen
+    description: Wir bitten dich uns via Email die folgenden Informationen mitzuteilen
     registration: Zu- oder Absage
     guest_count: Wieviele Personen ihr insgesamt seid
     food: "Essenswünsche: Isst jemand nur vegetarisch oder vegan? Bringst du Kinder mit die ein Kindermenü möchten?"
@@ -40,20 +39,17 @@ pages:
   good_to_know:
     title: Gut zu Wissen
     photos: | 
-      Sowohl bei der Trauung wie auch beim Apero wird eine professionelle Fotografin anwesend sein und die Eindrücke festhalten. </br>
-      Zudem werden wir nach der Trauung wie auch beim Apero Zeit einplanen um mit euch zusammen ein paar Fotos zu machen. </br>
+      Sowohl bei der Trauung wie auch beim Apero wird eine professionelle Fotografin anwesend sein. </br>
       Alle Fotos werden euch nach der Feier online zur Verfügung gestellt.
     congratulations: |
       Es wird ein Gästebuch für eure Gratulationen geben. Wir würden uns über eure netten Worte freuen.
     casino: |
       Für alle Eingeladenen die volljährig sind besteht die Möglichkeit kostenlos das Casino zu besuchen. </br>
-      Gewinne dürfen gerne mit dem Brautpaar geteilt werden. 💰😄 </br>
       Bitte beachtet die <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Regeln für den Zutritt zum Casino</a>.
   gifts:
     title: Geschenke
     intro_text: | 
-      Money, Money, Money - Geld ist ja nicht alles...aber wir können es trotzdem ganz gut gebrauchen!
-      Falls Ihr uns beschenken wollt, macht Ihr uns damit die größte Freude und wir können es für unsere Hochzeitsreise in die USA gut gebrauchen.
+      Wir erwarten keine Geschenke von euch und brauchen auch nichts spezielles. Falls Ihr uns trotzdem beschenken wollt würden wir uns am meisten über etwas Geld für unsere Hochzeitsreise freuen.
     wire_transfer: "Am einfachsten ist dies für uns via Banküberweisung auf folgendes Konto:"
     account_details: |
       Benjamin Huser, Heimstrasse 10, 8953 Dietikon </br>

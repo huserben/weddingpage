@@ -17,9 +17,8 @@ pages:
     dinner_guests: Sólo para Invitados
     dinner_info: "Cena de Inicio"
     dinner_cake: Pastel de Boda
-    dinner_bar: Barra Libre 🍹
     dinner_party: Fiesta 💃🕺
-    notice: La secuencia o los tiempos podrían cambiar dependiendo de la situación. Por favor, asegúrese de revisar esta página antes de la boda de nuevo.
+    notice: El programa es sólo provisional, por lo que es posible que se produzcan cambios en el programa o en los horarios en cualquier momento. Por favor, vuelva a comprobarlo antes de la boda.
   rsvp:
     title: Registro
     description: Le pedimos que nos proporcione la siguiente información por correo electrónico
@@ -40,20 +39,17 @@ pages:
   good_to_know:
     title: Es bueno saberlo
     photos: | 
-      Habrá un fotógrafo profesional en la ceremonia de la boda, así como en la recepción para capturar las impresiones. </br>
-      Estaremos planeando con tiempo para disparar algunas fotos con usted tanto después de la ceremonia, así como en la recepción. </br>
+      Habrá un fotógrafo profesional en la ceremonia de la boda, así como en la recepción. </br>
       Todas las fotos se pondrán a su disposición después de la boda.
     congratulations: |
       Habrá un libro de visitas para sus felicitaciones. Estaremos encantados de recibir sus amables palabras.
     casino: |
       Para todos los invitados mayores de edad existe la posibilidad de visitar el casino de forma gratuita. </br>
-      Las ganancias son bienvenidas para ser compartidas con los novios. 💰😄 </br>
       Por favor, consulte las <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Normas para la entrada al Casino</a>.
   gifts:
     title: Regalos
     intro_text: | 
-      Dinero, dinero, dinero - el dinero no lo es todo... ¡pero podemos usarlo de todas formas!
-      Si quieres regalarnos algo, esto es lo que más nos ayudaría y podemos utilizarlo directamente para nuestra luna de miel a los Estados Unidos.
+      No esperamos ningún regalo de su parte y no necesitamos nada especial. Si aún así quieres hacernos un regalo, nos encantaría recibir algo de dinero para nuestra luna de miel.
     wire_transfer: "Lo más fácil es hacer una transferencia a la siguiente cuenta:"
     account_details: |
       Benjamin Huser, Heimstrasse 10, 8953 Dietikon </br>
