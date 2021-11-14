@@ -18,13 +18,13 @@ pages:
     dinner_info: "Cena de Inicio"
     dinner_cake: Pastel de Boda
     dinner_party: Fiesta 💃🕺
-    notice: El programa es sólo provisional, por lo que es posible que se produzcan cambios en el programa o en los horarios en cualquier momento. Por favor, vuelva a comprobarlo antes de la boda.
+    notice: El programa es sólo provisional, cambios en el programa o en los horarios son possible en cualquier momento. Por favor, vuelva a comprobarlo antes de la boda.
   rsvp:
     title: Registro
     description: Le pedimos que nos proporcione la siguiente información por correo electrónico
-    registration: ¿Podrá unirse o no?
-    guest_count: Cuántas personas sois en total (llevaréis un +1 o niños)
-    food: "Deseos alimentarios: ¿Alguien va a comer sólo vegetariano o vegano? ¿Va a traer niños que quieran elegir del menú infantil?"
+    registration: ¿Si pueden venir o no?
+    guest_count: Cuántas personas son en total
+    food: "Deseos alimentarios: ¿Come alguien sólo vegetariano o vegano? ¿Va a traer niños que quieran un menú infantil?"
     allergies: "¿Tiene alergias que debamos conocer?"
     email: Envíe un correo electrónico a
   ceremony:
@@ -33,9 +33,9 @@ pages:
     rules: |
       Tenga en cuenta las normas de la casa de la Villa Boveri. Por ejemplo, no está permitido llevar globos o lanzar arroz (o cualquier otra cosa).
   festivities:
-    intro_text: ¡Lo celebramos en el Gran Casino de Baden! La recepción es en el <a href=https://www.clubjoybaden.ch/>Club Joy</a> del Casino y la cena en el salón de arriba del Restaurante del Casino.
+    intro_text: ¡Lo celebramos en el Gran Casino de Baden! La recepción es en el <a href=https://www.clubjoybaden.ch/>Club Joy</a> del Casino y la cena en el salón arriba del Restaurante del Casino.
     parking: Hay aparcamientos disponibles (de pago) en el Grand Casino Parking.
-    on_foot: Llegará al Casino en menos de 5 minutos a pie desde la estación de tren. Desde la Villa Boveri hay unos 15 minutos a pie hasta el Casino.
+    on_foot: Llegará al Casino en menos de 5 minutos a pie desde la estación de tren. Desde la Villa Boveri son unos 15 minutos a pie hasta el Casino.
   good_to_know:
     title: Es bueno saberlo
     photos: | 

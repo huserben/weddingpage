@@ -23,7 +23,7 @@ pages:
     title: RSVP
     description: We ask you to provide us the following information via Email
     registration: Will you be able to join or not
-    guest_count: How many people are you in total (will you bring a +1 or kids)
+    guest_count: How many people are you in total
     food: "Food wishes: Is someone eating only vegetarian or vegan? Will you bring kids that would like to choose from the Kids menu?"
     allergies: "Do you have allergies that we must be aware of?"
     email: Please send an email to
