@@ -9,24 +9,17 @@ pages:
   index:
     details: Details
   details:
-    ceremony_info: Wedding Ceremony
-    after_cereomony: Congratulations and Pictures
-    apero_info: "Reception with Appetizers"
-    apero_pictures: Pictures with the Bridal Couple
-    apero_bouquet: Bouquet Throwing 💐
+    ceremony_info: Wedding Ceremony 👰
+    after_cereomony: Relocation to Club Job/Grand Casino 🚶‍♂️🚗
+    apero_drinks: "Drinks & Snacks 🥂"
+    apero_info: "ca. 14:30  | Appetizer 🍖🧀"
+    apero_pictures: "ca. 15:30 | Group Photos with the Bridal Couple 📷"
+    apero_bouquet: ca. 16:15 | Bouquet Throwing 💐
     dinner_guests: For invited Guests only
-    dinner_info: "Start Dinner"
-    dinner_cake: Weddingcake
+    dinner_info: "Start Dinner 🍽️"
+    dinner_cake: Weddingcake 🎂
     dinner_party: Party 💃🕺
-    notice: The schedule is only tentative - changes in the schedule or times may occur at any time. Please check it again before the wedding.
-  rsvp:
-    title: RSVP
-    description: We ask you to provide us the following information via Email
-    registration: Will you be able to join or not
-    guest_count: How many people are you in total
-    food: "Food wishes: Is someone eating only vegetarian or vegan? Will you bring kids that would like to choose from the Kids menu?"
-    allergies: "Do you have allergies that we must be aware of?"
-    email: Please send an email to
+    notice: The ceremony starts at 12:30 - we can enter the premise at 12:15, please be on time so that we can start on schedule.
   ceremony:
     detail_text: |
       Die wedding ceremony starts at 12:30 in the 'Gartensaal' of the Villa Boveri. Directly next to the Villa Bovery is the parking lot 'Ländli' for people arriving by car. The Villa Boveri is about 10 minutes on foot from the train station Baden.
@@ -38,6 +31,8 @@ pages:
     on_foot: You'll get to the Casino in less than 5 minutes by foot from the train station. From the Villa Boveri it's about a 15 minute walk to the Casino.
   good_to_know:
     title: Good to Know
+    dresscode: |
+      Dresscode: Smart Casual.
     photos: | 
       There will be a professional photographer at the wedding ceremony as well as at the reception. </br>
       All pictures will be made available to you after the wedding.
@@ -45,7 +40,10 @@ pages:
       There will be a guestbook for your congratulations. We would be happy to receive your kind words.
     casino: |
       For all invitees who are of age there is the possibility to visit the casino for free. </br>
-      Please check the <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Rules for the entry to the Casino</a>.
+      Entrace is only possible with a valid ID card. </br>
+
+      Please check the <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Rules for the entry to the Casino</a>. </br>
+      No entrance for men if they wear shorts or sandals. Women can wear open-toed shoes (but no Flip Flops).
   gifts:
     title: Gifts
     intro_text: | 

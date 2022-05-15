@@ -9,24 +9,17 @@ pages:
   index:
     details: Details
   details:
-    ceremony_info: Trauung
-    after_cereomony: Gratulationen und Fotos
-    apero_info: "Apero mit Häppchen"
-    apero_pictures: Fotos mit Brautpaar
-    apero_bouquet: Brautstrausswurf 💐
-    dinner_guests: Für geladene Gäste
-    dinner_info: "Start Nachtessen"
-    dinner_cake: Hochzeitstorte
+    ceremony_info: Trauung 👰
+    after_cereomony: Standortwechsel zu Club Joy/Grand Casino 🚶‍♂️🚗 
+    apero_drinks: "Getränke & Snacks 🥂 "
+    apero_info: "ca. 14:30  | Apero mit Häppchen 🍖🧀"
+    apero_pictures: ca. 15:30 | Gruppenfotos mit Brautpaar 📷
+    apero_bouquet: ca. 16:15 | Brautstrausswurf 💐
+    dinner_guests: Für geladene Gäste 
+    dinner_info: "Start Nachtessen 🍽️"
+    dinner_cake: Hochzeitstorte 🎂
     dinner_party: Party 💃🕺
-    notice: Der Zeitplan ist nur provisorisch - Änderungen im Ablauf oder den Zeiten können jederzeit möglich sein. Bitte überprüft diese vor der Hochzeit noch einmal. 
-  rsvp:
-    title: Anmeldung
-    description: Wir bitten dich uns via Email die folgenden Informationen mitzuteilen
-    registration: Zu- oder Absage
-    guest_count: Wieviele Personen ihr insgesamt seid
-    food: "Essenswünsche: Isst jemand nur vegetarisch oder vegan? Bringst du Kinder mit die ein Kindermenü möchten?"
-    allergies: "Hast du Allergien die wir beachten müssen?"
-    email: Bitte sende ein Mail an
+    notice: Die Trauung startet um 12:30 - ab 12:15 können wir ins Lokal, bitte seid pünktlich damit wir rechtzeitig beginnen können. 
   ceremony:
     detail_text: |
       Die Trauung findet um 12:30 in der Villa Boveri im Gartensaal statt. Direkt neben der Villa Boveri befindet sich das Parkhaus Ländli für die Leute die mit dem Auto anreisen. Vom Bahnhof ist die Villa in 10 Minuten zu Fuss zu erreichen.
@@ -38,6 +31,8 @@ pages:
     on_foot: Zu Fuss ist das Grand Casino in weniger als 5 Minuten vom Bahnhof zu erreichen. Von der Villa Boveri ist man in etwa 15 Minuten beim Grand Casino.
   good_to_know:
     title: Gut zu Wissen
+    dresscode: |
+      Dresscode: Sportlich elegant.
     photos: | 
       Sowohl bei der Trauung wie auch beim Apero wird eine professionelle Fotografin anwesend sein. </br>
       Alle Fotos werden euch nach der Feier online zur Verfügung gestellt.
@@ -45,7 +40,10 @@ pages:
       Es wird ein Gästebuch für eure Gratulationen geben. Wir würden uns über eure netten Worte freuen.
     casino: |
       Für alle Eingeladenen die volljährig sind besteht die Möglichkeit kostenlos das Casino zu besuchen. </br>
-      Bitte beachtet die <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Regeln für den Zutritt zum Casino</a>.
+      Der Eintritt ist nur mit gültiger Identitätskarte/Pass möglich. </br>
+
+      Bitte beachtet die <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Regeln für den Zutritt zum Casino</a>. </br>
+      Eintritt für Herren nur mit geschlossenen Schuhen und langen Hosen. Frauen dürfen offene Schuhe tragen (keine Flip Flops).
   gifts:
     title: Geschenke
     intro_text: | 

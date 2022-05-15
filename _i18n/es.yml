@@ -9,24 +9,17 @@ pages:
   index:
     details: Detalles
   details:
-    ceremony_info: Ceremonia de la Boda
-    after_cereomony: Felicitaciones y Fotos
-    apero_info: "Recepción con Aperitivo"
-    apero_pictures: Fotos con los Novios
-    apero_bouquet: Lanzamiento de Ramos de Flores 💐
+    ceremony_info: Ceremonia de la Boda 👰
+    after_cereomony: Reubicación al Club Joy/Grand Casino 🚶‍♂️🚗
+    apero_drinks: "Bebidas & Snacks 🥂"
+    apero_info: "aprox. 14:30 | Aperitivo 🍖🧀"
+    apero_pictures: aprox. 15:30 | Fotos con los Novios  📷
+    apero_bouquet: aprox. 16:15 | Lanzamiento de Ramos de Flores 💐
     dinner_guests: Sólo para Invitados
-    dinner_info: "Cena de Inicio"
-    dinner_cake: Pastel de Boda
+    dinner_info: "Inicio de la Cena 🍽️"
+    dinner_cake: Pastel de Boda 🎂
     dinner_party: Fiesta 💃🕺
-    notice: El programa es sólo provisional, cambios en el programa o en los horarios son possible en cualquier momento. Por favor, vuelva a comprobarlo antes de la boda.
-  rsvp:
-    title: Registro
-    description: Le pedimos que nos proporcione la siguiente información por correo electrónico
-    registration: ¿Si pueden venir o no?
-    guest_count: Cuántas personas son en total
-    food: "Deseos alimentarios: ¿Come alguien sólo vegetariano o vegano? ¿Va a traer niños que quieran un menú infantil?"
-    allergies: "¿Tiene alergias que debamos conocer?"
-    email: Envíe un correo electrónico a
+    notice: La ceremonia comienza a las 12:30 - a partir de las 12:15 podemos entrar en el recinto. Por favor sean puntuales para que podamos empezar a tiempo.
   ceremony:
     detail_text: |
       La ceremonia de la boda comienza a las 12:30 en la 'Gartensaal' de la Villa Boveri. Justo al lado de la Villa Boveri se encuentra el aparcamiento 'Ländli' para las personas que llegan en coche. La Villa Boveri está a unos 10 minutos a pie de la estación de tren de Baden.
@@ -38,6 +31,7 @@ pages:
     on_foot: Llegará al Casino en menos de 5 minutos a pie desde la estación de tren. Desde la Villa Boveri son unos 15 minutos a pie hasta el Casino.
   good_to_know:
     title: Es bueno saberlo
+    dresscode: "Código de vestimenta: Elegante"
     photos: | 
       Habrá un fotógrafo profesional en la ceremonia de la boda, así como en la recepción. </br>
       Todas las fotos se pondrán a su disposición después de la boda.
@@ -45,7 +39,10 @@ pages:
       Habrá un libro de visitas para sus felicitaciones. Estaremos encantados de recibir sus amables palabras.
     casino: |
       Para todos los invitados mayores de edad existe la posibilidad de visitar el casino de forma gratuita. </br>
-      Por favor, consulte las <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Normas para la entrada al Casino</a>.
+      La admisión sólo es posible con un documento de identidad/pasaporte válido. </br>
+
+      Por favor, consulte las <a href=https://www.grandcasinobaden.ch/besucherinfo/besucherinfo>Normas para la entrada al Casino</a>. </br>
+      Entrada sólo para hombres con zapatos cerrados y pantalones largos. Las mujeres pueden llevar zapatos abiertos (no chancletas).
   gifts:
     title: Regalos
     intro_text: | 
