@@ -7,7 +7,25 @@ pages:
     home: Start
     festivities: Recepción de Boda & Fiesta
   index:
-    details: Detalles
+    downloads: Downloads
+    details: Details
+  downloads:
+    info_title: Download Info
+    info: | 
+      Descargue las imágenes de la boda - la contraseña fue enviada a usted. </br>
+      Si algo no funciona o has perdido la contraseña, no dudes en ponerte en contacto con nosotros.
+    fotobox: Fotomatón
+    fotobox_info: |
+      Después de introducir la contraseña puedes obtener todas las imágenes a través de "Download" (arriba a la izquierda).
+    marlene: Recepción de Boda, Apéro, Matrimonio
+    marlene_info: | 
+      Para acceder a las fotos, haz clic en "Enter as Guest" e introduce la contraseña. </br>
+      Puedes descargar las imágenes individualmente o todas juntas (para ello necesitarás el "Pin de descarga" que has recibido en un correo aparte). </br>
+      </br>
+      ❗Por favor, tenga en cuenta los derechos de autor - todas las fotos que se publican en las redes sociales deben mencionar a Marlene Madianos como creadora - por ejemplo, así: </br>
+      "Foto de Marlene Madianos (<a href="https://www.marlenemadianos.com">https://www.marlenemadianos.com</a>)"
+    evening: Cena y Fiesta
+    evening_notice: Pronto disponible
   details:
     ceremony_info: Ceremonia de la Boda 👰
     after_cereomony: Reubicación al Club Joy/Grand Casino 🚶‍♂️🚗

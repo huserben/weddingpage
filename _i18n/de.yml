@@ -7,7 +7,25 @@ pages:
     home: Start
     festivities: Apéro & Feier
   index:
+    downloads: Downloads
     details: Details
+  downloads:
+    info_title: Download Info
+    info: | 
+      Lade die Bilder der Hochzeit herunter - das Passwort zum öffnen wurde dir zugeschickt. </br>
+      Falls etwas nicht geklappt oder das Passwort verloren ging, kontaktiere uns einfach.
+    fotobox: Fotobox
+    fotobox_info: |
+      Nach Eingabe des Passworts kannst du alle Fotos via "Download" (oben links) herunterladen.
+    marlene: Trauung, Apéro, Brautpaar
+    marlene_info: | 
+      Um zu den Fotos zu gelangen, klicke auf "Enter as Guest" und gib das Passwort ein. </br>
+      Du kannst Fotos einzeln oder alle zusammen herunter laden (dafür benötigst du den Download Pin der dir separat zugeschickt wurde). </br>
+      </br>
+      ❗Bitte beachtet das Copyright - alle Bilder die auf Social Media gepostet werden sollen Marlene Madianos als Urheber nennen - zum Beispiel: </br>
+      "Foto von Marlene Madianos (<a href="https://www.marlenemadianos.com">https://www.marlenemadianos.com</a>)"
+    evening: Nachtessen & Party
+    evening_notice: Bald Verfügbar
   details:
     ceremony_info: Trauung 👰
     after_cereomony: Standortwechsel zu Club Joy/Grand Casino 🚶‍♂️🚗 

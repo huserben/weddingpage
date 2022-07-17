@@ -7,12 +7,13 @@ layout: landing
     <h2>{{ site.title }}</h2>
     <p>{{ site.description | markdownify }}</p>
   </div>
-  <a href="#details" class="more scrolly">{% t pages.index.details %}</a>
+  <a href="#downloads" class="more scrolly">{% t pages.index.downloads %}</a>
 </section>
 
-<section id="details" class="wrapper alt style1">
-  {% include sections/details.html %}
+<section id="downloads" class="wrapper alt style1">
+  {% include sections/downloads.html %}
 </section>
+
 
 <section id="good_to_know" class="wrapper alt style1">
   {% include sections/good_to_know.html %}

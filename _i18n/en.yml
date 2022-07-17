@@ -7,7 +7,25 @@ pages:
     home: Start
     festivities: Reception & Party
   index:
+    downloads: Downloads
     details: Details
+  downloads:
+    info_title: Download Info
+    info: | 
+      Download the images fromt he wedding - the password was sent to you. </br>
+      If something doesn't work or you lost the password, feel free to reach out to us.
+    fotobox: Photobooth
+    fotobox_info: |
+      After entering the password you can download all the pictures (button available on the upper left corner).
+    marlene: Ceremony, Apéro, Bridal Couple
+    marlene_info: | 
+      To get to the photos, click on "Enter as Guest" and enter the password. </br>
+      You can download pictures individually or all together (for this you'll need the "Download Pin" which you got in a separate mail). </br>      
+      </br>
+      ❗Please be aware of the Copyright - all Pictures that are posted on Social Media must mention Marlene Madianos as creator - for example like this: </br>
+      "Photo from Marlene Madianos (<a href="https://www.marlenemadianos.com">https://www.marlenemadianos.com</a>)"
+    evening: Dinner & Party
+    evening_notice: Soon Available
   details:
     ceremony_info: Wedding Ceremony 👰
     after_cereomony: Relocation to Club Job/Grand Casino 🚶‍♂️🚗
